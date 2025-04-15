@@ -33,7 +33,7 @@ Implemented a PID controller in Arduino for stabilization. MATLAB was used for s
 - `/images`: Diagrams and robot photos
 
 ## 📽️ Demo
-[![Watch the video](images/video_thumb.jpg)](https://youtu.be/your-video-link)
+[![Watch the video](images/Working Video.mp4)]
 
 ## 📄 Report & Presentation
 - [Final Report (PDF)](docs/ME-12.pdf)
