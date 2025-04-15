@@ -36,7 +36,7 @@ Implemented a PID controller in Arduino for stabilization. MATLAB was used for s
 [![Watch the video](images/video_thumb.jpg)](https://youtu.be/your-video-link)
 
 ## 📄 Report & Presentation
-- [Final Report (PDF)](docs/final-report.pdf)
+- [Final Report (PDF)](docs/ME-12.pdf)
 - [Presentation Slides (PDF)](docs/final-presentation.pdf)
 
 ## 🧑‍💻 Author
