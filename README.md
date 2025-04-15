@@ -1,7 +1,7 @@
 # Reaction-Wheel-Segway
 Mechanical Engineering BSc Final Project: Reaction wheel self-balancing Segway robot.
 
-<img src="images/robot_photo.jpg" width="500" alt="Robot Image"/>
+<img src="images/Reaction Wheel Segway.png" width="500" alt="Robot Image"/>
 
 ## 📌 Overview
 A self-balancing two-wheeled robot with a reaction wheel for enhanced stability. Built using Arduino Uno, MPU6050, L298N, and custom mechanical design. This was my BSc final project in Mechatronics.
