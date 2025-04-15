@@ -27,10 +27,10 @@ Additionally, the robot has image-processing abilities which gives it the capabi
 Implemented a PID controller in Arduino for stabilization. MATLAB was used for simulation and tuning.
 
 ## 🛠️ Folder Structure
-- `/code`: Arduino and MATLAB control code
-- `/hardware`: CAD files, wiring diagrams
+- `/code`: Arduino and Python control code
+- `/hardware`: CAD files
 - `/docs`: Report, presentation slides
-- `/images`: Diagrams and robot photos
+- `/images`: Robot photos and videos
 
 ## 📄 Report & Presentation
 - [Final Report (PDF)](docs/ME-12.pdf)
