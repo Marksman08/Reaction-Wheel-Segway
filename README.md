@@ -1,4 +1,4 @@
-# Reaction-Wheel-Segway
+# Reaction Wheel Segway - Version 1
 Mechanical Engineering BSc Final Project: Reaction wheel self-balancing Segway robot.
 
 <img src="images/Reaction Wheel Segway.png" width="300" alt="Robot Image"/>
