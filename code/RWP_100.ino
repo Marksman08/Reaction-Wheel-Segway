@@ -1,3 +1,5 @@
+// The 1st experiemnet of the project consists of the reaction wheel segway which operates solely by the power of the reaction wheel motor
+
 #include <Wire.h>           // Includes the Wire library for I2C communication
 #include <MPU6050_light.h>   // Includes the MPU6050 library for interacting with the MPU6050 sensor
 
